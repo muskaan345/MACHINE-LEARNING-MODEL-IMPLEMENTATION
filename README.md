@@ -68,3 +68,4 @@ Once the model was trained and evaluated, I used it to make predictions on new o
 
 Through this task, I gained practical experience in building machine learning models using Python. I learned how to handle real-world data, train and evaluate models, and make predictions effectively.
 **OUTPUT**:
+![Image](https://github.com/user-attachments/assets/dd5c8b49-ad40-467b-82e2-cc80a08bcf5c)
